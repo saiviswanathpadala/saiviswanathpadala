@@ -124,7 +124,7 @@ Bio:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/padalasaiviswanath/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-  <a href="mailto:padalasaiviswanath@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=padalasaiviswanath@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
 </p>
 
 <!--<h2> Views and Followers: </h2>
