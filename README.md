@@ -38,12 +38,13 @@ Bio:
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-<img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+<!--<img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />-->
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 <!-- ![Ansible](https://img.shields.io/static/v1?style=for-the-badge&message=Ansible&color=EE0000&logo=Ansible&logoColor=FFFFFF&label=)
 ![Terraform](https://img.shields.io/static/v1?style=for-the-badge&message=Terraform&color=7B42BC&logo=Terraform&logoColor=FFFFFF&label=) -->
 
+<!--
 <h3 align="left">Big Data:</h3>
 
 <a href="https://hadoop.apache.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/70017872/159570562-720d5f46-5729-4324-a3a9-c8a13dd4ef4e.png" alt="hadoop" width="90" height="30"/> </a>
@@ -52,6 +53,7 @@ Bio:
 
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+-->
 
 <h3 align="left">Web Development:</h3>
 
@@ -115,9 +117,9 @@ Bio:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saiviswanathpadala&show_icons=true&locale=en&layout=compact" alt="saiviswanathpadala" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saiviswanathpadala&show_icons=true&locale=en" alt="saiviswanathpadala" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saiviswanathpadala&show_icons=true&locale=en" alt="saiviswanathpadala" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saiviswanathpadala&" alt="saiviswanathpadala" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saiviswanathpadala&" alt="saiviswanathpadala" /></p>-->
 
 
 <h2> Connect with me: </h2>
