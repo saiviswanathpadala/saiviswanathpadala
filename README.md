@@ -6,22 +6,21 @@
 ```yaml
 Bio:
     Name: "P Sai Viswanath"
-    Education: "Information Technology"
-    Location: "Kakinada,Andhra Pradesh, India"
-    Fun Fact: "Photographer"
+    Education: "B.Tech-IT'25"
+    Location: "Hyderabad"
     
 ```
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
 <h1 align="center">I'm P S M G Sai Viswanath</h1>
-<h3 align="center">A passionate MERN Stack Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saiviswanathpadala&label=Profile%20views&color=0e75b6&style=flat" alt="saiviswanathpadala" /> </p>
 
-- 🔭 I’m currently working in **Greenko Group**
+- 🔭 Done onsite Internships at **Kitaabh** & **Greenko**
 
-- 🌱 I’m currently learning **Frontened Frameworks and Cloud**
+- 🌱 I’m currently learning **AI Agents and Workflow Automations**
 
 
 
