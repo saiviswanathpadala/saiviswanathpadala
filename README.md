@@ -1,8 +1,10 @@
-# Hi there, I'm Sai Viswanath 👋
+<h1 align="center">👋 Hey, I'm P S M G Sai Viswanath</h1>
+<h3 align="center">Full Stack Developer | Cloud | Generative AI</h3>
 
-**Full Stack Developer** | B.Tech IT'25 
-
-I'm a passionate developer building scalable web applications and exploring the intersection of cloud technologies and AI. I believe in writing clean code, solving real-world problems, and continuously learning.
+<p align="center">
+A developer who loves building clean, scalable applications and exploring how AI can solve real problems. 
+Hands-on experience across Full Stack Development, Cloud Services, and AI/ML integrations.
+</p>
 
 ---
 
@@ -68,7 +70,7 @@ I'm a passionate developer building scalable web applications and exploring the 
 - Worked on real-time AI applications and workflow automation with N8N
 
 **Key Projects**
-- 🏛️ **kaushalam.gov.ap.in** - Government skill development portal (full stack)
+- 🏛️ **Kaushalam** - Government skill development portal (full stack)
 - 🤖 **GenAI Chatbots** - Context-aware conversational AI systems
 - 📊 **Project Showcase Apps** - Dynamic portfolio and project management platforms
 
@@ -76,14 +78,19 @@ I'm a passionate developer building scalable web applications and exploring the 
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/padalasaiviswanath/)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:padalasaiviswanath@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/saiviswanathpadala)
+<p align="center">
+  <a href="https://www.linkedin.com/in/padalasaiviswanath/" target="_blank">
+    <img src="https://img.icons8.com/color/96/linkedin.png" width="50" />
+  </a>
+  <a href="mailto:padalasaiviswanath@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/96/gmail.png" width="50" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saiviswanathpadala&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=saiviswanathpadala&label=Profile+Views&color=blue" />
 </p>
 
 <p align="center">
