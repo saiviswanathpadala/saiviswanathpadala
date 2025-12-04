@@ -1,6 +1,6 @@
 # Hi there, I'm Sai Viswanath 👋
 
-**Full Stack Developer** | B.Tech IT'25 | Based in Hyderabad, India
+**Full Stack Developer** | B.Tech IT'25 
 
 I'm a passionate developer building scalable web applications and exploring the intersection of cloud technologies and AI. I believe in writing clean code, solving real-world problems, and continuously learning.
 
@@ -9,7 +9,7 @@ I'm a passionate developer building scalable web applications and exploring the 
 ## 🚀 About Me
 
 - 💼 Completed internships at **Algohire Technologies**, **Greenko Group**, **AIOEAM Corp**, and **SKILLAP APSSDC**
-- 🔭 Built production systems including [kaushalam.gov.ap.in](https://kaushalam.gov.ap.in) (Government skill development portal)
+- 🔭 Built production systems including [Kaushalam](https://kaushalam.gov.ap.in) (Government skill development portal)
 - 📄 Published research on **AI-powered meeting summarization** using BART & T5 transformer models
 - 🌱 Currently exploring **AI Agents**, **Workflow Automations**, and **Cloud-native architectures**
 - 🎯 Focused on: Full Stack Development, GenAI applications, and Serverless systems
@@ -71,14 +71,6 @@ I'm a passionate developer building scalable web applications and exploring the 
 - 🏛️ **kaushalam.gov.ap.in** - Government skill development portal (full stack)
 - 🤖 **GenAI Chatbots** - Context-aware conversational AI systems
 - 📊 **Project Showcase Apps** - Dynamic portfolio and project management platforms
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saiviswanathpadala&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</p>
 
 ---
 
